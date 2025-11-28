@@ -2,7 +2,7 @@
 
 ## Dual Licensing Model
 
-The LIP Framework (Latent Intelligence Principle) is available under two licensing options to balance accessibility with sustainability.
+The LIP Framework (Latent Intelligence Philosophy) is available under two licensing options to balance accessibility with sustainability.
 
 ---
 
